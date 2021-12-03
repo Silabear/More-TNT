@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"TNT Workbench","italic":false}'},CustomModelData:2300,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_workbench"]}} 1

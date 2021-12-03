@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Health TNT","italic":false}'},CustomModelData:2408,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_tnt_health"]}} 1

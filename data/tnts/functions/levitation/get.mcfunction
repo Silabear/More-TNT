@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Levitation TNT","italic":false}'},CustomModelData:2405,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_tnt_levitation"]}} 1

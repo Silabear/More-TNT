@@ -1,0 +1,6 @@
+summon firework_rocket ~ ~ ~ {Life:2000,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16711680,16746496,16252672,4521728,65518,8959,3932415,16711910]}]}}}}
+summon firework_rocket ~ ~ ~ {Life:2000,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16711680,16746496,16252672,4521728,65518,8959,3932415,16711910]}]}}}}
+summon firework_rocket ~ ~ ~ {Life:2000,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16711680,16746496,16252672,4521728,65518,8959,3932415,16711910]}]}}}}
+summon firework_rocket ~ ~ ~ {Life:2000,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16711680,16746496,16252672,4521728,65518,8959,3932415,16711910]}]}}}}
+summon firework_rocket ~ ~ ~ {Life:2000,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Flicker:1b,Trail:1b,Colors:[I;16711680,16746496,16252672,4521728,65518,8959,3932415,16711910]}]}}}}
+playsound entity.generic.explode master @a ~ ~ ~

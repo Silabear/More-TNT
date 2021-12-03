@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Icy TNT","italic":false}'},CustomModelData:2406,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_tnt_icy"]}} 1

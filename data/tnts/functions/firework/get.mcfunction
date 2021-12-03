@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Firework TNT","italic":false}'},CustomModelData:2407,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_tnt_firework"]}} 1

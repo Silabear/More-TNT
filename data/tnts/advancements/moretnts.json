@@ -1,0 +1,18 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:tnt"
+      },
+      "title": "More TNT",
+      "description": "Adds in new TNT to Minecraft!",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "parent": "global:silabear",
+    "criteria": {
+      "trigger": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

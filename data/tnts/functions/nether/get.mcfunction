@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Nether TNT","italic":false}'},CustomModelData:2411,EntityTag:{Silent:1b,Invisible:1b,Tags:["new_tnt_nether"]}} 1

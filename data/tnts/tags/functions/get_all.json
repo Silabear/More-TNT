@@ -1,0 +1,17 @@
+{
+    "values": [
+    "tnts:fire/get",
+    "tnts:sponge/get",
+    "tnts:bats/get",
+    "tnts:nuclear/get",
+    "tnts:levitation/get",
+    "tnts:icy/get",
+    "tnts:firework/get",
+    "tnts:throwable/get",
+    "tnts:health/get",
+    "tnts:charged/get",
+    "tnts:nether/get",
+    "tnts:end/get",
+    "tnts:workbench/get"
+ ]
+}
